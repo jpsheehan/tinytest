@@ -1,6 +1,6 @@
 """ tinytest.py
 
-A simple test program written in Python3 and licensed under GNU GPLv3.
+A simple testing framework written in Python3 and licensed under GNU GPLv3.
 
 Simply create a test file and add test cases similar to Python's doctests.
 
